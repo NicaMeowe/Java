@@ -36,9 +36,9 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("Brian Paul Francisco", "20", "185cm", "87kg");
-mintNFT("Rafael Estrada Samaniego", "20", "188cm", "85kg");
-mintNFT("Samuel Jayce Ibarra", "20", "195cm", "117kg");
+mintNFT("Davelin Nica Domingo", "20", "152cm", "64kg");
+mintNFT("Rafael Estrada", "20", "188cm", "85kg");
+mintNFT("Sam Ibarra", "20", "195cm", "117kg");
 
 listNFTs();
 getTotalSupply();
